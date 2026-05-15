@@ -1,3 +1,3 @@
 # JINJA2 TEST
 
-Mini test
+ini test
